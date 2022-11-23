@@ -1,0 +1,24 @@
+.edad {
+  width: 10%;
+  padding: 10px;
+}
+.porcentaje {
+  width: 10%;
+  padding: 10px;
+}
+.factorDeActividad {
+  width: 56%;
+  padding: 10px;
+}
+.peso {
+  width: 15%;
+  padding: 10px;
+}
+.genero {
+  width: 15%;
+  padding: 10px;
+}
+.container {
+  width: 100%;
+  margin-top: 30px;
+}

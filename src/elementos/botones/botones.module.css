@@ -1,0 +1,28 @@
+.container {
+  background: #004c91;
+  margin-top: 10px;
+  display: flex;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button {
+  width: 100%;
+  cursor: pointer;
+  padding: 7px 0px 7px 0px;
+  background: #004c91;
+  border: none;
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+.buttonActivo {
+  width: 100%;
+  cursor: pointer;
+  padding: 7px 0px 7px 0px;
+  background: #0d60ac;
+  border: none;
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}

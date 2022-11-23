@@ -1,0 +1,50 @@
+.box {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #f8f4f4;
+  min-height: 180px;
+}
+.ullist {
+  list-style: none;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+  color: #928888;
+  line-height: 25px;
+}
+
+.titulo {
+  font-size: 18px;
+  margin-left: 20px;
+  position: absolute;
+  margin-top: 15px;
+  font-family: "Inter", sans-serif;
+}
+.tm {
+  font-size: 36px;
+  color: #36a60f;
+  font-family: "Inter", sans-serif;
+  margin-top: -80px;
+  margin-left: 270px;
+  font-weight: bold;
+}
+.restoRojo {
+  margin-left: 170px;
+  color: #e7593a;
+  font-family: "Inter", sans-serif;
+  margin-top: 7px;
+  font-weight: bold;
+}
+.restoVerde {
+  margin-left: 170px;
+  color: #36a60f;
+  font-family: "Inter", sans-serif;
+  margin-top: 7px;
+  font-weight: bold;
+}
+.tt {
+  margin-left: 100px;
+}
